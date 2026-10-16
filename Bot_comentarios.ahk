@@ -5,7 +5,7 @@ Loop 100
    {
 	Send {Click Left}
 	Sleep 500
-	Send 😂
+	Send Farmar pontos
 	Sleep 200
 	Send {Enter Down} {Enter Up}
 	Sleep 5000
